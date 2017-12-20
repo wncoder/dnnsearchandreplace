@@ -1,4 +1,4 @@
-****Project Description****
+**Project Description**
 
 A DNN (DotNetNuke) Search and Replace module.
 
@@ -23,3 +23,11 @@ DNNSearchAndReplace is based on the old 'aspx' tool (which is still available at
 
 This module requires DotNetNuke 7.0.5 or later.
 The single-page ASPX tool can be run on any DotNetNuke version. 
+
+**Project Sponsor**
+
+Evotiva 
+
+This project was donated by Evotiva, makers of DNN's premier backup/clone module DNN Backup, DNN Upgrade accelerator tool, DNN Global Storage (folder providers); which allows you to easily tie-in cloud-based, external file systems, DNN UserFiles, a flexible (template-based) File and Documents manager (powered by DNN Global Storage or any other DNN folder provider, including DNN's default built-in providers: standard, secure and database).
+
+Last edited Aug 1, 2014 at 8:58 PM by horacioj, version 7
